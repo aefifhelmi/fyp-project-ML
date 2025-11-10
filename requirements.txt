@@ -1,0 +1,14 @@
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+seaborn>=0.12
+scikit-learn>=1.3
+statsmodels>=0.14
+lightgbm>=4.0
+xgboost>=1.7
+catboost>=1.2
+pyswarm>=0.6
+tensorflow>=2.12
+plotly>=5.15
+tqdm>=4.65
+jupyter>=1.0
